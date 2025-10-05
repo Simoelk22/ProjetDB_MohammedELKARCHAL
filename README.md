@@ -56,7 +56,7 @@ La plateforme musicale doit permettre :
 | **Looping** | Modélisation MCD et MLD |
 | **Word** | Rédaction du rapport |
 | **Git / GitHub** | Suivi de version et partage du projet |
-| **ChatGPT (IAG)** | Génération du dictionnaire et règles métier via prompt RICARDO |
+| **(IAG)** | Génération du dictionnaire et règles métier via prompt RICARDO |
 
 ---
 
