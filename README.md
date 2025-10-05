@@ -3,7 +3,7 @@
 > **EFREI Paris** – Module **TI503N : Bases de données 1**  
 > Réalisé par **Mohammed EL KARCHAL**  
 > Date : *05/10/2025*  
-> Encadrant : *(à compléter si connu)*
+> Encadrant : Kamel CHABCHOUB
 
 ---
 
