@@ -70,7 +70,7 @@ La plateforme musicale doit permettre :
 
 **Mohammed EL KARCHAL**  
 Étudiant en ingénierie – EFREI Paris  
-> Passionné par la conception de systèmes d’information et les bases de données.
+> Passionné par l'IA, la musique et  la date donc je mix tous dans ce projet.
 
 *mohammed.el-karchal@efrei.net*  
 [Profil GitHub](https://github.com/Simoelk22)
