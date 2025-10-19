@@ -62,8 +62,8 @@ La plateforme musicale doit permettre :
 
 ## Rapport complet
 
-[Télécharger le rapport (PDF)](./Rapport_Mini_Projet_BDD_ElKarchal_Mohammed.pdf)
-
+[Télécharger le rapport partie 1 (PDF)](./Rapport_Mini_Projet_BDD_ElKarchal_Mohammed.pdf)
+[Télécharger le rapport partie 2 (PDF) (./Rapport_Mini_Projet_BDD_ElKarchal_Mohammed_Partie2.pdf)
 ---
 
 ## Auteur
